@@ -57,17 +57,16 @@ The input dataset is stored in `students.csv` and contains 20 sample student rec
 
 ## 7. Output / Screenshots
 
-Add your actual screenshots in this section before final submission. Recommended screenshots:
-
-1. **Project files:** VS Code Explorer showing `main.py`, `functions.py`, `students.csv`, `student_results.csv`, `README.md`, and the documentation file.
+1. **Project files:** VS Code Explorer showing `screenshots/main.py.ping`, `screenshots/functions.py.pn`, `screenshots/students.csv.pn`, `screenshots/student_results.csv.pn`, `screenshots/README.md.pn`, and the documentation file.
 2. **How to run the project:** VS Code terminal showing the command `python main.py`.
 3. **Student dataset:** Program output showing the input student records.
 4. **Student results:** Output showing total marks, average marks, grades, and pass/fail status.
+`screenshot/Student_dataset.pn` , `screenshots/Student_result.pn` 
 5. **Overall analysis:** Output showing overall class analysis and pass/fail statistics.
+`screenshot/overall_analysis.pn`
 6. **Top performers and attendance:** Output showing the top five performing students and attendance analysis.
 7. **Generated CSV:** `student_results.csv` opened in VS Code or a spreadsheet viewer.
 
-> Replace this note with your actual screenshots. Do not submit empty screenshot placeholders.
 
 ## 8. Final Outcome
 
